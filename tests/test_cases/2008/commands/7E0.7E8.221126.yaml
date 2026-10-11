@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.221126
 test_cases:
 - expected_values:
-    TAURUSX_X_ERT: 255
+    TAURUSX_ERT: null
   response: 7E804621126FF

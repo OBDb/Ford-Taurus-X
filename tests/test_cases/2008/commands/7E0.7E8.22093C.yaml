@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22093C
 test_cases:
 - expected_values:
-    TAURUSX_X_ETC_ANG_ACT: 1.9375
+    TAURUSX_ETC_ANG_ACT: 1.9375
   response: 7E80562093C03E0
 - expected_values:
-    TAURUSX_X_ETC_ANG_ACT: 2.375
+    TAURUSX_ETC_ANG_ACT: 2.375
   response: 7E80562093C04C0
 - expected_values:
-    TAURUSX_X_ETC_ANG_ACT: 2.5
+    TAURUSX_ETC_ANG_ACT: 2.5
   response: 7E80562093C0500
