@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Taurus_X"
+
+generations:
+  - name: "Taurus X"
+    start_year: 2008
+    end_year: 2009
+    description: "The renamed Freestyle crossover on the Volvo-derived D3 platform, with the 3.5 L Duratec V6 and a six-speed automatic."

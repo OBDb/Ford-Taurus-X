@@ -1,0 +1,8 @@
+command_id: 720.728.226185
+test_cases:
+- expected_values:
+    TAURUSX_FLI: 93.72549
+  response: 72804626185EF
+- expected_values:
+    TAURUSX_FLI: 94.11765
+  response: 72804626185F0
