@@ -1,0 +1,8 @@
+command_id: 760.768.223201
+test_cases:
+- expected_values:
+    TAURUSX_X_STEER_ANG: -1
+  response: 768056232017FEC
+- expected_values:
+    TAURUSX_X_STEER_ANG: 0
+  response: '768056232018000'
